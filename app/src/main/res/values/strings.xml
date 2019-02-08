@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Bottom Sheet Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="show_bottom_sheet_dialog_fragment">Show Bottom Sheet Dialog Fragment</string>
+    <string name="show_bottom_sheet_dialog">Show Bottom Sheet Dialog</string>
+</resources>
